@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Test	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+toggleLedState 	KEYWORD2
+disconnect 	KEYWORD2
+publish 	KEYWORD2
+publish_P 	KEYWORD2
+connected 	KEYWORD2
+setServer	KEYWORD2
+setCallback	KEYWORD2
+setClient	KEYWORD2
+setStream	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
